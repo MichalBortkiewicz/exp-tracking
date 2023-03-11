@@ -1,2 +1,4 @@
 [hydra]
     enabled = True
+    config_dir = /Users/michalbortkiewicz/repos/phd/tutorials/exp-tracking/configs/
+    config_name = train.yaml
